@@ -1,10 +1,10 @@
-# installing-ruby-on-windows
+# installing-ruby-on-windows (64-bit)
 
 
 1. Go here: http://rubyinstaller.org/downloads/
 2. Download: Rubyx64 from "Ruby Installers" 
 	<ul>
-		<li>Install it at C\:DevKit</li>
+		<li>Install it at C:\DevKit</li>
 		<li>Set path variable</li> 
 		<li>Set it to open .rb files</li>
 	</ul> 
