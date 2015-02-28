@@ -11,4 +11,4 @@
 3. Download Dev Kit (must match Ruby version x64)
 	<ul><li>Instructions: https://github.com/oneclick/rubyinstaller/wiki/development-kit</li></ul>
 4. If problems with SSL Certificate, go here: 
-	ul><li>https://gist.github.com/luislavena/f064211759ee0f806c88</ul></li>
+	<ul><li>https://gist.github.com/luislavena/f064211759ee0f806c88</ul></li>
